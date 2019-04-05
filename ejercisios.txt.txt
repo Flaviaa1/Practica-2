@@ -1,0 +1,8 @@
+conversor a pulgadas
+pitagoras
+palindromo
+capitalizar
+capicua
+m.c.d
+m.c.m
+cifrado cesar
